@@ -19,4 +19,9 @@ public class SampleGit {
 		System.out.println(reverse);
 	}
 	
+	private void newSample() {
+		// TODO Auto-generated method stub
+
+	}
+	
 }
